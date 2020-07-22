@@ -1,0 +1,53 @@
+{
+  "especialidades": [
+    {
+      "id": 1,
+      "crm": "CRM-DF 3109",
+      "nome": "Bruna",
+      "sobrenome": "Carvalho",
+      "especialidade": "Pediatria"
+    },
+    {
+      "id": 2,
+      "crm": "CRM-DF 4598",
+      "nome": "Naara",
+      "sobrenome": "Lima",
+      "especialidade": "Cardiologia"
+    },
+    {
+      "id": 3,
+      "crm": "CRM-DF 7821",
+      "nome": "Júlia",
+      "sobrenome": "Santos",
+      "especialidade": "Nefrologia"
+    },
+    {
+      "id": 4,
+      "crm": "CRM-DF 8743",
+      "nome": "Sandra",
+      "sobrenome": "Alencar",
+      "especialidade": "Endocrinologia"
+    },
+    {
+      "id": 5,
+      "crm": "CRM-DF 6723",
+      "nome": "Gabriela",
+      "sobrenome": "Freitas",
+      "especialidade": "Dermatologia"
+    },
+    {
+      "id": 6,
+      "crm": "CRM-DF 7812",
+      "nome": "Adriane",
+      "sobrenome": "Lopes",
+      "especialidade": "Geriatria"
+    },
+    {
+      "id": 7,
+      "crm": "CRM-DF 9811",
+      "nome": "Naara",
+      "sobrenome": "Ramos",
+      "especialidade": "Infectologia"
+    }
+  ]
+}
